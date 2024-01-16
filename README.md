@@ -16,3 +16,61 @@
 7. Admin Dashboard - For Admin
 8. User Dashboard - For Users
 
+### Screenshots
+1. Login Page
+![Login Page](https://github.com/jesh-exe/Voting-Portal-J2EE/assets/63248212/d992df69-836d-464f-9b8d-16a8bec1f5af)
+
+
+2. Invalid Login Page
+![Invalid Login Page](https://github.com/jesh-exe/Voting-Portal-J2EE/assets/63248212/da859636-7e4f-45a9-8c28-4624c627566b)
+
+
+3. Admin Dashboard
+![Admin Dashboard Page](https://github.com/jesh-exe/Voting-Portal-J2EE/assets/63248212/8ed7ab12-0e49-4cd1-8bd0-1bbd82482818)
+
+
+4.  Add New Candidate - By Admin Only
+![Add New Candidate Page](https://github.com/jesh-exe/Voting-Portal-J2EE/assets/63248212/1be69d77-94bd-43e0-ac61-07ba01833dc0)
+
+
+5.  Sign Up Page
+![Sign Up Page](https://github.com/jesh-exe/Voting-Portal-J2EE/assets/63248212/48cef5a3-908d-4ae8-a836-41db105cb358)
+
+
+6.  Age/Email Validation Error Page
+![Age Limit Check](https://github.com/jesh-exe/Voting-Portal-J2EE/assets/63248212/4975d877-03ee-4118-a1a4-4723a91a918e)
+
+
+7.  Sign Up Successful
+![Sign Up Success Page](https://github.com/jesh-exe/Voting-Portal-J2EE/assets/63248212/f210aba3-a8d7-4da7-94d1-004ab2746986)
+
+
+8.  User Dashboard
+![User Dashboard Page](https://github.com/jesh-exe/Voting-Portal-J2EE/assets/63248212/9d2660eb-6f5a-4893-902d-95735d64d198)
+
+
+9.  Vote Successful
+![Voting Success Page](https://github.com/jesh-exe/Voting-Portal-J2EE/assets/63248212/a2d8c411-576b-445b-95fd-208881cff2d9)
+
+
+10.  Double Vote Validation Check Page
+![Double Vote Check](https://github.com/jesh-exe/Voting-Portal-J2EE/assets/63248212/38ec38bc-bb66-4ee3-851f-80bf0e5734d6)
+
+
+11. Logout
+![Logout Page](https://github.com/jesh-exe/Voting-Portal-J2EE/assets/63248212/0635e352-2530-4453-9f96-9dc0161be30b)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
